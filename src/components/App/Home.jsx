@@ -8,7 +8,7 @@ const Home = () => {
     <div className='row text-center text-white text-light'>
       <div className='col-md-12'>
         <h2 className='text-light'>Who Comes Next</h2>
-        <h4 class='text-light text-muted'>Find awesome devs in your area </h4>
+        <h4 className='text-light text-muted'>Find awesome devs in your area </h4>
         <Skills />
         <Qualities />
         <Link to='/results'> 

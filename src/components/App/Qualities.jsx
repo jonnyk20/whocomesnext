@@ -4,7 +4,7 @@ const Qualities = () => {
   return (
     <div className='card m-3 '>
       <form className='p-3'>
-        <h6 className='text-light mb-2'>Which quality is most important in your dev</h6>
+        <h6 className='text-light mb-2'>Which quality is most important in your dev?</h6>
         <select 
           className="form-control text-muted" 
           defaultValue={'choice'}
