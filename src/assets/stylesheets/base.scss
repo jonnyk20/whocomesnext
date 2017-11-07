@@ -1,4 +1,47 @@
-h1 {
-  font-family: helvetica;
+html *, .card {
+  background-color: #232323;
+}
+.app-content {
+  margin-top: 30px;
+  max-width: 500px;
+}
+
+.display-4 {
+  font-size: 2rem;
+}
+
+.card {
+  border: solid 1px white;
+}
+
+.fa-circle-o-notch {
+  color: rgb(25, 162, 184);
+}
+.card-img-top {
+  border-radius: 5px;
+}
+.bio-img-container {
+  max-width: 300px;
+  border-radius: 5px;
+}
+.bio-img {
+  border-radius: 5px;
+  width: 100%;
+  border: solid 1px;
+}
+.brag {
+  font-weight: bold;
+}
+
+
+.text-light {
+  font-weight: 300;
+}
+
+.text-extra-light {
   font-weight: 200;
+}
+
+.text-thin {
+  font-weight: 100;
 }
