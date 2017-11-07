@@ -45,7 +45,7 @@ class Results extends Component {
               />
               <div className='card-body'>
                 <h6>Jonny Kalambay</h6>
-                <p className='card-text text-muted'>Vancouver Based Web Developper</p>
+                <p className='card-text text-muted'>Vancouver Based Web Developer</p>
               </div>
               <Link to='/profile'> 
                 <button className='btn btn-outline-info m-1'>View Full Profile</button>
