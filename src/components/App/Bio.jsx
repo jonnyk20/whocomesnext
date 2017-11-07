@@ -2,7 +2,7 @@ import React from 'react';
 
 const Bio = () => {
   return (
-    <div class='lead'>
+    <div className='lead'>
       <div className='bio-img-container mx-auto my-2'>
         <img 
           alt='ice cave'
@@ -43,7 +43,8 @@ const Bio = () => {
         <a href='http://www.jonnykalambay.com'> jonnykalambay.com </a>
       </p>
       <p>
-        P.S. In case you're curious, this site was made using Node, React and SASS, and deployed using Heroku and AWS. Here's the repo.
+        P.S. In case you're curious, this site was made using Node, React and SASS, and deployed using Heroku and AWS. 
+        <a href='https://github.com/jonnyk20/whocomesnext'> Here's the repo. </a>
       </p>
     </div>
   );
